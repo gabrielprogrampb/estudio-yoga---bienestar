@@ -1,0 +1,5 @@
+{
+  "name": "Estudio Yoga & Bienestar",
+  "description": "A fully manageable, responsive web application for a yoga and wellness studio. It features sections for classes, teachers, schedules, room rentals, therapies, and more, all easily updatable through a simple admin panel.",
+  "requestFramePermissions": []
+}
